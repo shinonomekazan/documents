@@ -21,5 +21,5 @@
 
 <img src="assets/by.svg" width="150" height="52" alt="CC-BY" />
 
- 本リポジトリ文書群のライセンスは[CC-BY 2.1 JP](https://creativecommons.org/licenses/by/2.1/jp/legalcode)とします。
+ 本リポジトリに含まれる文書群のライセンスは[CC-BY 2.1 JP](https://creativecommons.org/licenses/by/2.1/jp/legalcode)とします。
 
